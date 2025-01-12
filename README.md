@@ -45,9 +45,15 @@ An experienced IT professional with 12+ years in software development, enhanceme
 
 ### 🔐 **Oracle Identity Manager**
 - **Organization:** Oracle India Private Limited  
-- **Duration:** April 2015 – Nov 2017  
+- **Duration:** July 2014 – Nov 2017  
 - **Tech Stack:** Java, J2EE, LDAP, WebLogic  
 - **Description:** Enhanced Oracle Identity Manager products, focusing on user management and secure configurations. 
+
+### 🔐 **ZCubator**
+- **Organization:** FranConnect India Private Limited  
+- **Duration:** Nov 2011 – July 2014  
+- **Tech Stack:** Java, J2EE, MySQL, Social Media APIs
+- **Description:** Integration of Social Media platforms like Facebook, Twitter in ZCubator (Marketing tool for Franchisees`)
 
 ---
 
