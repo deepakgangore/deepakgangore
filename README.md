@@ -1,7 +1,7 @@
 # Hi, I'm Deepak Gangore 👋
 
 ## 💻 About Me
-An experienced IT professional with 12+ years in software development, enhancement, and maintenance, specializing in **Java**, **J2EE**, and **Identity and Access Management (IAM)** solutions. Passionate about delivering secure, efficient systems and contributing to cutting-edge projects in the tech industry.
+An experienced IT professional with 13+ years in software development, enhancement, and maintenance, specializing in **Java**, **J2EE**, and **Identity and Access Management (IAM)** solutions. Passionate about delivering secure, efficient systems and contributing to cutting-edge projects in the tech industry.
 
 - 🏆 **Achievements:**
   - ForgeRock Certified Access Manager Specialist – Jan 2024
@@ -49,7 +49,7 @@ An experienced IT professional with 12+ years in software development, enhanceme
 - **Tech Stack:** Java, J2EE, LDAP, WebLogic  
 - **Description:** Enhanced Oracle Identity Manager products, focusing on user management and secure configurations. 
 
-### 🔐 **ZCubator**
+### 🔐 **ZCubator/FranConnect**
 - **Organization:** FranConnect India Private Limited  
 - **Duration:** Nov 2011 – July 2014  
 - **Tech Stack:** Java, J2EE, MySQL, Social Media APIs
@@ -58,9 +58,10 @@ An experienced IT professional with 12+ years in software development, enhanceme
 ---
 
 ## 🎖️ Achievements
-- Developed IAM modules to enhance security and efficiency across HSBC systems.
+- Contributing towards design, implementation and maintenance of HSBC API security internal and external
 - Led a team to deliver blockchain solutions for trade finance processes.
-- Streamlined API security flows, educating teams on best practices.
+- Have worked as an SME for Oracle Identity Manager modules like user management, password policy, role and organisation 
+- Delivered social media integration using OAuth.
 
 ---
 
